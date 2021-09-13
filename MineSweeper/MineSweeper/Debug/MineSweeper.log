@@ -1,0 +1,187 @@
+﻿  MineSweeper.cpp
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(79,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(87,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(87,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(115,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(135,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(137,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(141,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(141,45): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(153,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(155,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(158,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(158,45): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(178,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(180,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(183,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(183,45): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(194,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(196,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(207,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(209,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(218,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(220,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(238,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(240,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(252,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(252,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(329,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(329,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(426,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(466,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(466,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(467,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(467,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(468,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(468,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(469,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(469,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(470,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(470,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(471,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(471,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(472,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(472,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(497,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(497,45): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(502,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(502,42): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(508,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(508,42): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(514,50): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(514,41): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(520,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(520,45): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(537,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(539,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(571,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hao\source\repos\MineSweeper\MineSweeper\MineSweeper.cpp(573,35): warning C4018: '<': signed/unsigned mismatch
+  MineSweeper.vcxproj -> C:\Users\Hao\source\repos\MineSweeper\Debug\MineSweeper.exe
