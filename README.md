@@ -1,2 +1,2 @@
 # Mine-Sweeper
-Minesweepers game using the SFML library 
+Minesweepers game using the SFML library.
